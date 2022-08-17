@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaseemuddinn
+- 👋 Hi, I’m Jaseemuddin Naseem
 - 📚 I'm currently pursuing my B.Tech in CSE.
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Programming Languages
