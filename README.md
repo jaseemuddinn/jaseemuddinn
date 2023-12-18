@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaseemuddin Naseem
 - 📚 Currently pursuing my B.Tech in CSE.
-- 👀 Interested in Software Development.
+- 👀 Interested in Web Development.
 - 🌱 Currently Learning.
 - 📫 Reach through E-mail: njaseemuddin@gmail.com
 
