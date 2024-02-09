@@ -4,7 +4,7 @@
 
 ### Hi there, I am Jaseemuddin Naseem 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jigneshpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaseemuddin/)](https://www.linkedin.com/in/jaseemuddin/)
+[![Linkedin Badge](https://img.shields.io/badge/-jaseemuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaseemuddin/)](https://www.linkedin.com/in/jaseemuddin/)
 [![Gmail Badge](https://img.shields.io/badge/-njaseemuddin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njaseemuddin@gmail.com)](mailto:njaseemuddin@gmail.com)
 <br>
 
