@@ -54,7 +54,7 @@
     <h3 align="center">⭐ : Show some &nbsp;❤️&nbsp; to my repositories!</h3>
 </div>
 
-
+[![jaseemuddinn's GitHub | Languages Over Time](https://stats.quine.sh/jaseemuddinn/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jaseemuddinn)
 
 <!---
 jaseemuddinn/jaseemuddinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
