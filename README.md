@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseemuddinn" alt="jaseemuddin" /> </p>
 </br>
 
-- 🎯 Portfolio website: [Portfolio](https://jaseemuddin.com/)
+- 🎯 Portfolio website: [Portfolio](https://mjnaseem.com/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Thing(s) I love**
