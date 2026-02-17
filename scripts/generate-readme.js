@@ -334,22 +334,14 @@ const highImpactProjects = scored
     .sort((a, b) => b.impactScore - a.impactScore)
     .slice(0, 5)
 
-const readme = `<div align="center">
+const readme = `# ${username}
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=${username}%20Portfolio&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
+> Full Stack Developer | Building scalable solutions
 
-# 🚀 Advanced Portfolio Intelligence System
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%7C+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;${filtered.length}+Projects+%7C+${totalStars}+Stars+⭐" alt="Typing SVG" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=${username}&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/${username}?style=for-the-badge&logo=github&label=Followers&color=ff69b4)](https://github.com/${username}?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/${username}?style=for-the-badge&logo=github&label=Total+Stars&color=yellow)](https://github.com/${username})
-![Repos](https://img.shields.io/badge/Repositories-${filtered.length}-blue?style=for-the-badge&logo=github)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://mjnaseem.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/jaseemuddin/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:njaseemuddin@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=${username}&color=blue)](https://github.com/${username})
 
 ---
 
@@ -936,13 +928,7 @@ $$
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-
-### ⭐ Found something interesting? Star the repos you like!
-
-**Last Updated:** ${now.toLocaleString('en-US', { month: 'long', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short' })}
-
-</div>
+**Generated:** ${now.toUTCString()} | **Algorithm:** v4.0.0
 `
 
 fs.writeFileSync("README.md", readme)
