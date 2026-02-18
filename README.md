@@ -159,11 +159,11 @@ Description: Config files for my GitHub profile.
 
 **Portfolio Score**
 ```
-█████████░░░░░░░░░░░ 46.2%
+██████████░░░░░░░░░░ 48.0%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `104/225`
+- 🎯 Score: `108/225`
 - 🏥 Health: `100/100`
 - 🔧 Maintainability: `95/100`
 - 🧩 Complexity: `5/100`
@@ -175,7 +175,7 @@ Description: Config files for my GitHub profile.
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `0 days ago`
+- 🕐 Last Update: `1 days ago`
 - 📊 Status: `🔥`
 
 </td>
@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-████████░░░░░░░░░░░░ 38.7%
+████████░░░░░░░░░░░░ 38.2%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `87/225`
+- 🎯 Score: `86/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `86 days ago`
+- 🕐 Last Update: `87 days ago`
 - 📊 Status: `💫`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `263 days ago`
+- 🕐 Last Update: `264 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `792 days ago`
+- 🕐 Last Update: `793 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -558,12 +558,12 @@ Description: No description provided
 
 <tr>
 <td align="center">5</td>
-<td><strong>AIStudentCounselling</strong></td>
+<td><strong>unhireable</strong></td>
 <td align="center"><code>8</code></td>
 <td align="center">⭐ 0</td>
 <td align="center">🔱 0</td>
-<td align="center">✨</td>
-<td align="center"><a href="https://github.com/jaseemuddinn/AIStudentCounselling">View</a> • <a href="https://studentounselling.vercel.app">Live</a></td>
+<td align="center">💫</td>
+<td align="center"><a href="https://github.com/jaseemuddinn/unhireable">View</a></td>
 </tr>
 
 </table>
@@ -585,7 +585,7 @@ Description: No description provided
 
 Config files for my GitHub profile.
 
-**Stack:** `JavaScript` | **Health:** `100%` | **Score:** `104`
+**Stack:** `JavaScript` | **Health:** `100%` | **Score:** `108`
 
 </td>
 <td width="30%" align="center">
@@ -787,8 +787,8 @@ Feb │▓░░░░░░░░░░░░░░░░░░░░░░░�
 
 **🔥 [jaseemuddinn](https://github.com/jaseemuddinn/jaseemuddinn)**
 ```
-JavaScript • ⭐ 0 • Score: 104
-Updated 0d ago • 🥉 Bronze
+JavaScript • ⭐ 0 • Score: 108
+Updated 1d ago • 🥉 Bronze
 ```
 
 </td>
@@ -796,7 +796,7 @@ Updated 0d ago • 🥉 Bronze
 
 **🔥 [careops](https://github.com/jaseemuddinn/careops)**
 ```
-JavaScript • ⭐ 0 • Score: 87
+JavaScript • ⭐ 0 • Score: 86
 Updated 3d ago • ⭐ Standard
 ```
 
@@ -1051,7 +1051,7 @@ Updated 3d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Tue, 17 Feb 2026 13:16:12 GMT
+Report Generated:    Wed, 18 Feb 2026 02:48:14 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         62 repositories analyzed  
@@ -1150,7 +1150,7 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     52.5 / 225          ║
+║  • Average Portfolio Score:     52.6 / 225          ║
 ║  • Average Health Score:        69 / 100                 ║
 ║  • Average Maintainability:     59 / 100                 ║
 ║  • Development Velocity:        0.31 repos/week            ║
@@ -1162,4 +1162,4 @@ $$
 
 ---
 
-**Generated:** Tue, 17 Feb 2026 13:16:12 GMT | **Algorithm:** v4.0.0
+**Generated:** Wed, 18 Feb 2026 02:48:14 GMT | **Algorithm:** v4.0.0
