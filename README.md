@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-████████░░░░░░░░░░░░ 37.8%
+███████░░░░░░░░░░░░░ 37.3%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `85/225`
+- 🎯 Score: `84/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `5 days ago`
+- 🕐 Last Update: `6 days ago`
 - 📊 Status: `🔥`
 
 </td>
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `266 days ago`
+- 🕐 Last Update: `267 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `89 days ago`
+- 🕐 Last Update: `90 days ago`
 - 📊 Status: `💫`
 
 </td>
@@ -370,67 +370,6 @@ Description: No description provided
 + Good project with growth potential
 + Excellent code health and maintenance
 + Recently updated
-```
-
-</details>
-
-<details >
-<summary>
-<h3 style="display: inline;">🏅 AIStudentCounselling - ⭐ Standard ⭐</h3>
-</summary>
-
-<table>
-<tr>
-<td width="60%">
-
-#### 📋 Project Overview
-```yaml
-Name:        AIStudentCounselling
-Category:    🌐 Production
-Language:    JavaScript
-Description: No description provided
-```
-
-#### 🔗 Quick Links
-🌐 **[Live Demo](https://studentounselling.vercel.app)** 
-📂 **[Source Code](https://github.com/jaseemuddinn/AIStudentCounselling)**
-📱 **[Visit Site](https://studentounselling.vercel.app)**
-
-</td>
-<td width="40%">
-
-#### 📊 Performance Metrics
-
-**Portfolio Score**
-```
-██████░░░░░░░░░░░░░░ 28.9%
-```
-
-**Detailed Breakdown:**
-- 🎯 Score: `65/225`
-- 🏥 Health: `90/100`
-- 🔧 Maintainability: `80/100`
-- 🧩 Complexity: `5/100`
-
-**Engagement:**
-- ⭐ Stars: `0`
-- 🔱 Forks: `0`
-- 👁️ Watchers: `0`
-- 🐛 Issues: `0`
-
-**Activity:**
-- 🕐 Last Update: `93 days ago`
-- 📊 Status: `✨`
-
-</td>
-</tr>
-</table>
-
-**Rating Analysis:**
-```diff
-+ Good project with growth potential
-+ Excellent code health and maintenance
-- Consider updating
 ```
 
 </details>
@@ -480,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `795 days ago`
+- 🕐 Last Update: `796 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -491,6 +430,67 @@ Description: No description provided
 ```diff
 + Good project with growth potential
 - Code health needs improvement
+- Consider updating
+```
+
+</details>
+
+<details >
+<summary>
+<h3 style="display: inline;">🏅 AIStudentCounselling - ⭐ Standard ⭐</h3>
+</summary>
+
+<table>
+<tr>
+<td width="60%">
+
+#### 📋 Project Overview
+```yaml
+Name:        AIStudentCounselling
+Category:    🌐 Production
+Language:    JavaScript
+Description: No description provided
+```
+
+#### 🔗 Quick Links
+🌐 **[Live Demo](https://studentounselling.vercel.app)** 
+📂 **[Source Code](https://github.com/jaseemuddinn/AIStudentCounselling)**
+📱 **[Visit Site](https://studentounselling.vercel.app)**
+
+</td>
+<td width="40%">
+
+#### 📊 Performance Metrics
+
+**Portfolio Score**
+```
+██████░░░░░░░░░░░░░░ 28.4%
+```
+
+**Detailed Breakdown:**
+- 🎯 Score: `64/225`
+- 🏥 Health: `90/100`
+- 🔧 Maintainability: `80/100`
+- 🧩 Complexity: `5/100`
+
+**Engagement:**
+- ⭐ Stars: `0`
+- 🔱 Forks: `0`
+- 👁️ Watchers: `0`
+- 🐛 Issues: `0`
+
+**Activity:**
+- 🕐 Last Update: `94 days ago`
+- 📊 Status: `✨`
+
+</td>
+</tr>
+</table>
+
+**Rating Analysis:**
+```diff
++ Good project with growth potential
++ Excellent code health and maintenance
 - Consider updating
 ```
 
@@ -637,35 +637,7 @@ _No description_
 <tr>
 <td width="70%">
 
-### 3. AIStudentCounselling ✨
-
-_No description_
-
-**Stack:** `JavaScript` | **Health:** `90%` | **Score:** `65`
-
-</td>
-<td width="30%" align="center">
-
-**⭐ 0** stars
-**🔱 0** forks
-
-<br/>
-
-[![](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaseemuddinn/AIStudentCounselling)
-[![](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studentounselling.vercel.app)
-
-</td>
-</tr>
-</table>
-
----
-
-
-<table width="100%">
-<tr>
-<td width="70%">
-
-### 4. dinnovations 💤
+### 3. dinnovations 💤
 
 _No description_
 
@@ -681,6 +653,34 @@ _No description_
 
 [![](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaseemuddinn/dinnovations)
 [![](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://dinnovations.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+
+<table width="100%">
+<tr>
+<td width="70%">
+
+### 4. AIStudentCounselling ✨
+
+_No description_
+
+**Stack:** `JavaScript` | **Health:** `90%` | **Score:** `64`
+
+</td>
+<td width="30%" align="center">
+
+**⭐ 0** stars
+**🔱 0** forks
+
+<br/>
+
+[![](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaseemuddinn/AIStudentCounselling)
+[![](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studentounselling.vercel.app)
 
 </td>
 </tr>
@@ -764,7 +764,7 @@ Week 4: ██ 2 commits (current)
 ### 📊 Monthly Activity Trend (12 Months)
 
 ```
-Mar │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
+Mar │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 Apr │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 4 pushes
 May │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 Jun │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
@@ -796,8 +796,8 @@ Updated 1d ago • 🥉 Bronze
 
 **🔥 [careops](https://github.com/jaseemuddinn/careops)**
 ```
-JavaScript • ⭐ 0 • Score: 85
-Updated 5d ago • ⭐ Standard
+JavaScript • ⭐ 0 • Score: 84
+Updated 6d ago • ⭐ Standard
 ```
 
 </td>
@@ -1051,7 +1051,7 @@ Updated 5d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Fri, 20 Feb 2026 02:42:01 GMT
+Report Generated:    Sat, 21 Feb 2026 02:35:32 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         62 repositories analyzed  
@@ -1150,7 +1150,7 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     52.5 / 225          ║
+║  • Average Portfolio Score:     52.4 / 225          ║
 ║  • Average Health Score:        69 / 100                 ║
 ║  • Average Maintainability:     59 / 100                 ║
 ║  • Development Velocity:        0.31 repos/week            ║
@@ -1162,4 +1162,4 @@ $$
 
 ---
 
-**Generated:** Fri, 20 Feb 2026 02:42:01 GMT | **Algorithm:** v4.0.0
+**Generated:** Sat, 21 Feb 2026 02:35:32 GMT | **Algorithm:** v4.0.0
