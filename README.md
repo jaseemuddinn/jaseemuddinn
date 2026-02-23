@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-███████░░░░░░░░░░░░░ 36.9%
+███████░░░░░░░░░░░░░ 36.4%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `83/225`
+- 🎯 Score: `82/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `7 days ago`
+- 🕐 Last Update: `8 days ago`
 - 📊 Status: `⚡`
 
 </td>
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `268 days ago`
+- 🕐 Last Update: `269 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `91 days ago`
+- 🕐 Last Update: `92 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `797 days ago`
+- 🕐 Last Update: `798 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `95 days ago`
+- 🕐 Last Update: `96 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -519,7 +519,7 @@ Description: No description provided
 <tr>
 <td align="center">1</td>
 <td><strong>womenite</strong></td>
-<td align="center"><code>23</code></td>
+<td align="center"><code>22</code></td>
 <td align="center">⭐ 0</td>
 <td align="center">🔱 2</td>
 <td align="center">✨</td>
@@ -558,12 +558,12 @@ Description: No description provided
 
 <tr>
 <td align="center">5</td>
-<td><strong>unhireable</strong></td>
-<td align="center"><code>8</code></td>
+<td><strong>AIStudentCounselling</strong></td>
+<td align="center"><code>7</code></td>
 <td align="center">⭐ 0</td>
 <td align="center">🔱 0</td>
 <td align="center">✨</td>
-<td align="center"><a href="https://github.com/jaseemuddinn/unhireable">View</a></td>
+<td align="center"><a href="https://github.com/jaseemuddinn/AIStudentCounselling">View</a> • <a href="https://studentounselling.vercel.app">Live</a></td>
 </tr>
 
 </table>
@@ -796,8 +796,8 @@ Updated 1d ago • 🥉 Bronze
 
 **⚡ [careops](https://github.com/jaseemuddinn/careops)**
 ```
-JavaScript • ⭐ 0 • Score: 83
-Updated 7d ago • ⭐ Standard
+JavaScript • ⭐ 0 • Score: 82
+Updated 8d ago • ⭐ Standard
 ```
 
 </td>
@@ -1046,7 +1046,7 @@ Updated 7d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Sun, 22 Feb 2026 02:48:31 GMT
+Report Generated:    Mon, 23 Feb 2026 02:48:43 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         62 repositories analyzed  
@@ -1145,7 +1145,7 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     52.4 / 225          ║
+║  • Average Portfolio Score:     52.3 / 225          ║
 ║  • Average Health Score:        68 / 100                 ║
 ║  • Average Maintainability:     59 / 100                 ║
 ║  • Development Velocity:        0.16 repos/week            ║
@@ -1157,4 +1157,4 @@ $$
 
 ---
 
-**Generated:** Sun, 22 Feb 2026 02:48:31 GMT | **Algorithm:** v4.0.0
+**Generated:** Mon, 23 Feb 2026 02:48:43 GMT | **Algorithm:** v4.0.0
