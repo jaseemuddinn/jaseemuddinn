@@ -193,68 +193,7 @@ Description: Config files for my GitHub profile.
 
 <details >
 <summary>
-<h3 style="display: inline;">🥈 careops - ⭐ Standard ⭐</h3>
-</summary>
-
-<table>
-<tr>
-<td width="60%">
-
-#### 📋 Project Overview
-```yaml
-Name:        careops
-Category:    💫 Recent
-Language:    JavaScript
-Description: No description provided
-```
-
-#### 🔗 Quick Links
- 
-📂 **[Source Code](https://github.com/jaseemuddinn/careops)**
-
-
-</td>
-<td width="40%">
-
-#### 📊 Performance Metrics
-
-**Portfolio Score**
-```
-██████░░░░░░░░░░░░░░ 28.9%
-```
-
-**Detailed Breakdown:**
-- 🎯 Score: `65/225`
-- 🏥 Health: `90/100`
-- 🔧 Maintainability: `70/100`
-- 🧩 Complexity: `5/100`
-
-**Engagement:**
-- ⭐ Stars: `0`
-- 🔱 Forks: `0`
-- 👁️ Watchers: `0`
-- 🐛 Issues: `0`
-
-**Activity:**
-- 🕐 Last Update: `39 days ago`
-- 📊 Status: `💫`
-
-</td>
-</tr>
-</table>
-
-**Rating Analysis:**
-```diff
-+ Good project with growth potential
-+ Excellent code health and maintenance
-+ Recently updated
-```
-
-</details>
-
-<details >
-<summary>
-<h3 style="display: inline;">🥉 dinnovations - ⭐ Standard ⭐</h3>
+<h3 style="display: inline;">🥈 dinnovations - ⭐ Standard ⭐</h3>
 </summary>
 
 <table>
@@ -297,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `829 days ago`
+- 🕐 Last Update: `830 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -315,7 +254,7 @@ Description: No description provided
 
 <details >
 <summary>
-<h3 style="display: inline;">🏅 izzhaar_loyalty_app - ⭐ Standard ⭐</h3>
+<h3 style="display: inline;">🥉 izzhaar_loyalty_app - ⭐ Standard ⭐</h3>
 </summary>
 
 <table>
@@ -358,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `300 days ago`
+- 🕐 Last Update: `301 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -370,6 +309,67 @@ Description: No description provided
 + Good project with growth potential
 + Good code health
 - Consider updating
+```
+
+</details>
+
+<details >
+<summary>
+<h3 style="display: inline;">🏅 careops - ⭐ Standard ⭐</h3>
+</summary>
+
+<table>
+<tr>
+<td width="60%">
+
+#### 📋 Project Overview
+```yaml
+Name:        careops
+Category:    💫 Recent
+Language:    JavaScript
+Description: No description provided
+```
+
+#### 🔗 Quick Links
+ 
+📂 **[Source Code](https://github.com/jaseemuddinn/careops)**
+
+
+</td>
+<td width="40%">
+
+#### 📊 Performance Metrics
+
+**Portfolio Score**
+```
+██████░░░░░░░░░░░░░░ 28.4%
+```
+
+**Detailed Breakdown:**
+- 🎯 Score: `64/225`
+- 🏥 Health: `90/100`
+- 🔧 Maintainability: `70/100`
+- 🧩 Complexity: `5/100`
+
+**Engagement:**
+- ⭐ Stars: `0`
+- 🔱 Forks: `0`
+- 👁️ Watchers: `0`
+- 🐛 Issues: `0`
+
+**Activity:**
+- 🕐 Last Update: `40 days ago`
+- 📊 Status: `💫`
+
+</td>
+</tr>
+</table>
+
+**Rating Analysis:**
+```diff
++ Good project with growth potential
++ Excellent code health and maintenance
++ Recently updated
 ```
 
 </details>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `123 days ago`
+- 🕐 Last Update: `124 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `127 days ago`
+- 🕐 Last Update: `128 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -558,12 +558,12 @@ Description: No description provided
 
 <tr>
 <td align="center">5</td>
-<td><strong>AIStudentCounselling</strong></td>
+<td><strong>unhireable</strong></td>
 <td align="center"><code>7</code></td>
 <td align="center">⭐ 0</td>
 <td align="center">🔱 0</td>
 <td align="center">✨</td>
-<td align="center"><a href="https://github.com/jaseemuddinn/AIStudentCounselling">View</a> • <a href="https://studentounselling.vercel.app">Live</a></td>
+<td align="center"><a href="https://github.com/jaseemuddinn/unhireable">View</a></td>
 </tr>
 
 </table>
@@ -765,8 +765,8 @@ Week 4: █ 1 commits (current)
 
 ```
 Apr │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 4 pushes
-May │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
-Jun │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
+May │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
+Jun │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
 Jul │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 Aug │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Sep │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
@@ -1037,7 +1037,7 @@ Updated 1d ago • 🥉 Bronze
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Thu, 26 Mar 2026 02:55:21 GMT
+Report Generated:    Fri, 27 Mar 2026 03:16:41 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         62 repositories analyzed  
@@ -1148,4 +1148,4 @@ $$
 
 ---
 
-**Generated:** Thu, 26 Mar 2026 02:55:21 GMT | **Algorithm:** v4.0.0
+**Generated:** Fri, 27 Mar 2026 03:16:41 GMT | **Algorithm:** v4.0.0
