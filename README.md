@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `834 days ago`
+- 🕐 Last Update: `835 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `305 days ago`
+- 🕐 Last Update: `306 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -342,11 +342,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-██████░░░░░░░░░░░░░░ 28.0%
+██████░░░░░░░░░░░░░░ 27.6%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `63/225`
+- 🎯 Score: `62/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `44 days ago`
+- 🕐 Last Update: `45 days ago`
 - 📊 Status: `💫`
 
 </td>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `128 days ago`
+- 🕐 Last Update: `129 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -464,11 +464,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-█████░░░░░░░░░░░░░░░ 26.7%
+█████░░░░░░░░░░░░░░░ 26.2%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `60/225`
+- 🎯 Score: `59/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `80/100`
 - 🧩 Complexity: `5/100`
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `132 days ago`
+- 🕐 Last Update: `133 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -558,12 +558,12 @@ Description: No description provided
 
 <tr>
 <td align="center">5</td>
-<td><strong>unhireable</strong></td>
-<td align="center"><code>7</code></td>
+<td><strong>AIStudentCounselling</strong></td>
+<td align="center"><code>6</code></td>
 <td align="center">⭐ 0</td>
 <td align="center">🔱 0</td>
 <td align="center">✨</td>
-<td align="center"><a href="https://github.com/jaseemuddinn/unhireable">View</a></td>
+<td align="center"><a href="https://github.com/jaseemuddinn/AIStudentCounselling">View</a> • <a href="https://studentounselling.vercel.app">Live</a></td>
 </tr>
 
 </table>
@@ -669,7 +669,7 @@ _No description_
 
 _No description_
 
-**Stack:** `JavaScript` | **Health:** `90%` | **Score:** `60`
+**Stack:** `JavaScript` | **Health:** `90%` | **Score:** `59`
 
 </td>
 <td width="30%" align="center">
@@ -764,18 +764,18 @@ Week 4: █ 1 commits (current)
 ### 📊 Monthly Activity Trend (12 Months)
 
 ```
-Apr │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
-May │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
+May │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
 Jun │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
-Jul │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
-Aug │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Sep │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
-Oct │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
+Jul │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
+Aug │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Sep │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+Oct │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 Nov │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
-Dec │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+Dec │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
 Jan │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Feb │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Feb │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Mar │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Apr │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 ```
 
 
@@ -1037,7 +1037,7 @@ Updated 1d ago • 🥉 Bronze
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Tue, 31 Mar 2026 02:56:59 GMT
+Report Generated:    Wed, 01 Apr 2026 03:28:38 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         62 repositories analyzed  
@@ -1148,4 +1148,4 @@ $$
 
 ---
 
-**Generated:** Tue, 31 Mar 2026 02:56:59 GMT | **Algorithm:** v4.0.0
+**Generated:** Wed, 01 Apr 2026 03:28:38 GMT | **Algorithm:** v4.0.0
