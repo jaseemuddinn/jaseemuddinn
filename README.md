@@ -47,10 +47,10 @@
 
 ### 🏥 Health Index
 ```mathematica
-67/100
+66/100
 ```
 ```
-█████████████████░░░░░░░░
+████████████████▓░░░░░░░░
 ```
 **Status: Good 💙**
 
@@ -100,7 +100,7 @@ Avg Stars:   0.0
 
 **🎯 Quality Metrics**
 ```yaml
-Health:      67%
+Health:      66%
 Maintain:    57%
 Complexity:  16%
 Velocity:    0.23/wk
@@ -112,8 +112,8 @@ Velocity:    0.23/wk
 **📊 Distribution**
 ```yaml
 Recent:      3
-Stable:      7
-Dormant:     33
+Stable:      6
+Dormant:     34
 Archived:    0
 ```
 
@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `3 days ago`
+- 🕐 Last Update: `4 days ago`
 - 📊 Status: `🔥`
 
 </td>
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `843 days ago`
+- 🕐 Last Update: `844 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `314 days ago`
+- 🕐 Last Update: `315 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -370,67 +370,6 @@ Description: No description provided
 + Good project with growth potential
 + Good code health
 - Consider updating
-```
-
-</details>
-
-<details >
-<summary>
-<h3 style="display: inline;">🏅 careops - ⭐ Standard ⭐</h3>
-</summary>
-
-<table>
-<tr>
-<td width="60%">
-
-#### 📋 Project Overview
-```yaml
-Name:        careops
-Category:    💫 Recent
-Language:    JavaScript
-Description: No description provided
-```
-
-#### 🔗 Quick Links
- 
-📂 **[Source Code](https://github.com/jaseemuddinn/careops)**
-
-
-</td>
-<td width="40%">
-
-#### 📊 Performance Metrics
-
-**Portfolio Score**
-```
-█████░░░░░░░░░░░░░░░ 26.7%
-```
-
-**Detailed Breakdown:**
-- 🎯 Score: `60/225`
-- 🏥 Health: `90/100`
-- 🔧 Maintainability: `70/100`
-- 🧩 Complexity: `5/100`
-
-**Engagement:**
-- ⭐ Stars: `0`
-- 🔱 Forks: `0`
-- 👁️ Watchers: `0`
-- 🐛 Issues: `0`
-
-**Activity:**
-- 🕐 Last Update: `53 days ago`
-- 📊 Status: `💫`
-
-</td>
-</tr>
-</table>
-
-**Rating Analysis:**
-```diff
-+ Good project with growth potential
-+ Excellent code health and maintenance
-+ Recently updated
 ```
 
 </details>
@@ -480,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `137 days ago`
+- 🕐 Last Update: `138 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -491,6 +430,67 @@ Description: No description provided
 ```diff
 + Good project with growth potential
 + Good code health
+- Consider updating
+```
+
+</details>
+
+<details >
+<summary>
+<h3 style="display: inline;">🏅 AIStudentCounselling - ⭐ Standard ⭐</h3>
+</summary>
+
+<table>
+<tr>
+<td width="60%">
+
+#### 📋 Project Overview
+```yaml
+Name:        AIStudentCounselling
+Category:    🌐 Production
+Language:    JavaScript
+Description: No description provided
+```
+
+#### 🔗 Quick Links
+🌐 **[Live Demo](https://studentounselling.vercel.app)** 
+📂 **[Source Code](https://github.com/jaseemuddinn/AIStudentCounselling)**
+📱 **[Visit Site](https://studentounselling.vercel.app)**
+
+</td>
+<td width="40%">
+
+#### 📊 Performance Metrics
+
+**Portfolio Score**
+```
+█████░░░░░░░░░░░░░░░ 26.2%
+```
+
+**Detailed Breakdown:**
+- 🎯 Score: `59/225`
+- 🏥 Health: `90/100`
+- 🔧 Maintainability: `80/100`
+- 🧩 Complexity: `5/100`
+
+**Engagement:**
+- ⭐ Stars: `0`
+- 🔱 Forks: `0`
+- 👁️ Watchers: `0`
+- 🐛 Issues: `0`
+
+**Activity:**
+- 🕐 Last Update: `142 days ago`
+- 📊 Status: `✨`
+
+</td>
+</tr>
+</table>
+
+**Rating Analysis:**
+```diff
++ Good project with growth potential
++ Excellent code health and maintenance
 - Consider updating
 ```
 
@@ -769,8 +769,8 @@ Jun │▓▓░░░░░░░░░░░░░░░░░░░░░░�
 Jul │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 Aug │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 Sep │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Oct │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
-Nov │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Oct │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 4 pushes
+Nov │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Dec │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
 Jan │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Feb │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
@@ -797,7 +797,7 @@ Updated 1d ago • 🥉 Bronze
 **🔥 [bmsbot](https://github.com/jaseemuddinn/bmsbot)**
 ```
 Python • ⭐ 0 • Score: 97
-Updated 3d ago • 🥉 Bronze
+Updated 4d ago • 🥉 Bronze
 ```
 
 </td>
@@ -971,14 +971,14 @@ Updated 3d ago • 🥉 Bronze
 █████████░░░░░░░░░░░ 45.0%
 ```
 
-`💤 Dormant          ` `16` 
+`💤 Dormant          ` `17` 
 ```
-████████░░░░░░░░░░░░ 40.0%
+█████████░░░░░░░░░░░ 42.5%
 ```
 
-`✨ Stable            ` `3` 
+`✨ Stable            ` `2` 
 ```
-██░░░░░░░░░░░░░░░░░░ 7.5%
+█░░░░░░░░░░░░░░░░░░░ 5.0%
 ```
 
 `🚀 Live & Active    ` `1` 
@@ -1003,8 +1003,8 @@ Updated 3d ago • 🥉 Bronze
 ```yaml
 🔥 Active (≤30d):    2 repos
 💫 Recent (≤90d):    3 repos  
-✨ Stable (≤180d):   7 repos
-💤 Dormant (>180d):  33 repos
+✨ Stable (≤180d):   6 repos
+💤 Dormant (>180d):  34 repos
 📦 Archived:         0 repos
 ```
 
@@ -1072,7 +1072,7 @@ Updated 3d ago • 🥉 Bronze
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Thu, 09 Apr 2026 02:54:28 GMT
+Report Generated:    Fri, 10 Apr 2026 03:26:59 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         63 repositories analyzed  
@@ -1171,8 +1171,8 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     52.2 / 225          ║
-║  • Average Health Score:        67 / 100                 ║
+║  • Average Portfolio Score:     52.1 / 225          ║
+║  • Average Health Score:        66 / 100                 ║
 ║  • Average Maintainability:     57 / 100                 ║
 ║  • Development Velocity:        0.23 repos/week            ║
 ║  • Community Engagement:        6 total interactions  ║
@@ -1183,4 +1183,4 @@ $$
 
 ---
 
-**Generated:** Thu, 09 Apr 2026 02:54:28 GMT | **Algorithm:** v4.0.0
+**Generated:** Fri, 10 Apr 2026 03:26:59 GMT | **Algorithm:** v4.0.0
