@@ -90,7 +90,7 @@ Elite:       13
 **⭐ Engagement Stats**
 ```yaml
 Stars:       0
-Forks:       6
+Forks:       5
 Watchers:    0
 Avg Stars:   0.0
 ```
@@ -203,7 +203,7 @@ Description: Config files for my GitHub profile.
 #### 📋 Project Overview
 ```yaml
 Name:        bmsbot
-Category:    ⚡ Hot
+Category:    🔥 Active
 Language:    Python
 Description: No description provided
 ```
@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-████████░░░░░░░░░░░░ 42.2%
+████████░░░░░░░░░░░░ 41.8%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `95/225`
+- 🎯 Score: `94/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `50/100`
@@ -236,8 +236,8 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `6 days ago`
-- 📊 Status: `🔥`
+- 🕐 Last Update: `7 days ago`
+- 📊 Status: `⚡`
 
 </td>
 </tr>
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `846 days ago`
+- 🕐 Last Update: `847 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `317 days ago`
+- 🕐 Last Update: `318 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -376,7 +376,7 @@ Description: No description provided
 
 <details >
 <summary>
-<h3 style="display: inline;">🏅 womenite - ⭐ Standard ⭐</h3>
+<h3 style="display: inline;">🏅 3dClothing - ⭐ Standard ⭐</h3>
 </summary>
 
 <table>
@@ -385,16 +385,16 @@ Description: No description provided
 
 #### 📋 Project Overview
 ```yaml
-Name:        womenite
-Category:    ✨ Stable
-Language:    TypeScript
+Name:        3dClothing
+Category:    🌐 Production
+Language:    JavaScript
 Description: No description provided
 ```
 
 #### 🔗 Quick Links
- 
-📂 **[Source Code](https://github.com/jaseemuddinn/womenite)**
-
+🌐 **[Live Demo](https://clothingcustomisation.vercel.app)** 
+📂 **[Source Code](https://github.com/jaseemuddinn/3dClothing)**
+📱 **[Visit Site](https://clothingcustomisation.vercel.app)**
 
 </td>
 <td width="40%">
@@ -403,24 +403,24 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-█████░░░░░░░░░░░░░░░ 26.7%
+█████░░░░░░░░░░░░░░░ 25.8%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `60/225`
-- 🏥 Health: `80/100`
-- 🔧 Maintainability: `70/100`
-- 🧩 Complexity: `54/100`
+- 🎯 Score: `58/225`
+- 🏥 Health: `60/100`
+- 🔧 Maintainability: `55/100`
+- 🧩 Complexity: `15/100`
 
 **Engagement:**
 - ⭐ Stars: `0`
-- 🔱 Forks: `2`
+- 🔱 Forks: `0`
 - 👁️ Watchers: `0`
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `140 days ago`
-- 📊 Status: `✨`
+- 🕐 Last Update: `882 days ago`
+- 📊 Status: `💤`
 
 </td>
 </tr>
@@ -429,7 +429,7 @@ Description: No description provided
 **Rating Analysis:**
 ```diff
 + Good project with growth potential
-+ Good code health
+- Code health needs improvement
 - Consider updating
 ```
 
@@ -464,11 +464,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-█████░░░░░░░░░░░░░░░ 26.2%
+█████░░░░░░░░░░░░░░░ 25.8%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `59/225`
+- 🎯 Score: `58/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `80/100`
 - 🧩 Complexity: `5/100`
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `144 days ago`
+- 🕐 Last Update: `145 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -518,22 +518,22 @@ Description: No description provided
 
 <tr>
 <td align="center">1</td>
-<td><strong>womenite</strong></td>
-<td align="center"><code>19</code></td>
-<td align="center">⭐ 0</td>
-<td align="center">🔱 2</td>
-<td align="center">✨</td>
-<td align="center"><a href="https://github.com/jaseemuddinn/womenite">View</a></td>
-</tr>
-
-<tr>
-<td align="center">2</td>
 <td><strong>contextAwareRewriter</strong></td>
 <td align="center"><code>14</code></td>
 <td align="center">⭐ 0</td>
 <td align="center">🔱 2</td>
 <td align="center">💤</td>
 <td align="center"><a href="https://github.com/jaseemuddinn/contextAwareRewriter">View</a></td>
+</tr>
+
+<tr>
+<td align="center">2</td>
+<td><strong>womenite</strong></td>
+<td align="center"><code>12</code></td>
+<td align="center">⭐ 0</td>
+<td align="center">🔱 1</td>
+<td align="center">✨</td>
+<td align="center"><a href="https://github.com/jaseemuddinn/womenite">View</a></td>
 </tr>
 
 <tr>
@@ -552,7 +552,7 @@ Description: No description provided
 <td align="center"><code>10</code></td>
 <td align="center">⭐ 0</td>
 <td align="center">🔱 0</td>
-<td align="center">🔥</td>
+<td align="center">⚡</td>
 <td align="center"><a href="https://github.com/jaseemuddinn/bmsbot">View</a></td>
 </tr>
 
@@ -665,35 +665,7 @@ _No description_
 <tr>
 <td width="70%">
 
-### 4. AIStudentCounselling ✨
-
-_No description_
-
-**Stack:** `JavaScript` | **Health:** `90%` | **Score:** `59`
-
-</td>
-<td width="30%" align="center">
-
-**⭐ 0** stars
-**🔱 0** forks
-
-<br/>
-
-[![](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaseemuddinn/AIStudentCounselling)
-[![](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studentounselling.vercel.app)
-
-</td>
-</tr>
-</table>
-
----
-
-
-<table width="100%">
-<tr>
-<td width="70%">
-
-### 5. 3dClothing 💤
+### 4. 3dClothing 💤
 
 _No description_
 
@@ -709,6 +681,34 @@ _No description_
 
 [![](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaseemuddinn/3dClothing)
 [![](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://clothingcustomisation.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+
+<table width="100%">
+<tr>
+<td width="70%">
+
+### 5. AIStudentCounselling ✨
+
+_No description_
+
+**Stack:** `JavaScript` | **Health:** `90%` | **Score:** `58`
+
+</td>
+<td width="30%" align="center">
+
+**⭐ 0** stars
+**🔱 0** forks
+
+<br/>
+
+[![](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaseemuddinn/AIStudentCounselling)
+[![](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studentounselling.vercel.app)
 
 </td>
 </tr>
@@ -757,16 +757,16 @@ _No description_
 ```
 Week 1:  0 commits
 Week 2:  0 commits  
-Week 3:  0 commits
-Week 4: ██ 2 commits (current)
+Week 3: █ 1 commits
+Week 4: █ 1 commits (current)
 ```
 
 ### 📊 Monthly Activity Trend (12 Months)
 
 ```
 May │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
-Jun │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
-Jul │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
+Jun │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 4 pushes
+Jul │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 Aug │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Sep │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Oct │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 4 pushes
@@ -794,10 +794,10 @@ Updated 1d ago • 🥉 Bronze
 </td>
 <td width="50%">
 
-**🔥 [bmsbot](https://github.com/jaseemuddinn/bmsbot)**
+**⚡ [bmsbot](https://github.com/jaseemuddinn/bmsbot)**
 ```
-Python • ⭐ 0 • Score: 95
-Updated 6d ago • 🥉 Bronze
+Python • ⭐ 0 • Score: 94
+Updated 7d ago • 🥉 Bronze
 ```
 
 </td>
@@ -986,7 +986,7 @@ Updated 6d ago • 🥉 Bronze
 █░░░░░░░░░░░░░░░░░░░ 2.5%
 ```
 
-`⚡ Hot               ` `1` 
+`🔥 Active           ` `1` 
 ```
 █░░░░░░░░░░░░░░░░░░░ 2.5%
 ```
@@ -1072,7 +1072,7 @@ Updated 6d ago • 🥉 Bronze
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Sun, 12 Apr 2026 03:30:51 GMT
+Report Generated:    Mon, 13 Apr 2026 03:36:57 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         63 repositories analyzed  
@@ -1171,11 +1171,11 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     52.1 / 225          ║
+║  • Average Portfolio Score:     52.0 / 225          ║
 ║  • Average Health Score:        66 / 100                 ║
 ║  • Average Maintainability:     57 / 100                 ║
 ║  • Development Velocity:        0.23 repos/week            ║
-║  • Community Engagement:        6 total interactions  ║
+║  • Community Engagement:        5 total interactions  ║
 ║  • Active Project Rate:         5.0%                    ║
 ║  • Production Ready:            19 live systems              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -1183,4 +1183,4 @@ $$
 
 ---
 
-**Generated:** Sun, 12 Apr 2026 03:30:51 GMT | **Algorithm:** v4.0.0
+**Generated:** Mon, 13 Apr 2026 03:36:57 GMT | **Algorithm:** v4.0.0
