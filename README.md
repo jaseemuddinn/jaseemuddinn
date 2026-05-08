@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-█████████░░░░░░░░░░░ 43.1%
+█████████░░░░░░░░░░░ 42.7%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `97/225`
+- 🎯 Score: `96/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `52/100`
@@ -254,68 +254,7 @@ Description: No description provided
 
 <details >
 <summary>
-<h3 style="display: inline;">🥉 bmsbot - ⭐ Standard ⭐</h3>
-</summary>
-
-<table>
-<tr>
-<td width="60%">
-
-#### 📋 Project Overview
-```yaml
-Name:        bmsbot
-Category:    💫 Recent
-Language:    Python
-Description: No description provided
-```
-
-#### 🔗 Quick Links
- 
-📂 **[Source Code](https://github.com/jaseemuddinn/bmsbot)**
-
-
-</td>
-<td width="40%">
-
-#### 📊 Performance Metrics
-
-**Portfolio Score**
-```
-███████░░░░░░░░░░░░░ 35.6%
-```
-
-**Detailed Breakdown:**
-- 🎯 Score: `80/225`
-- 🏥 Health: `90/100`
-- 🔧 Maintainability: `70/100`
-- 🧩 Complexity: `50/100`
-
-**Engagement:**
-- ⭐ Stars: `0`
-- 🔱 Forks: `0`
-- 👁️ Watchers: `0`
-- 🐛 Issues: `0`
-
-**Activity:**
-- 🕐 Last Update: `31 days ago`
-- 📊 Status: `💫`
-
-</td>
-</tr>
-</table>
-
-**Rating Analysis:**
-```diff
-+ Good project with growth potential
-+ Excellent code health and maintenance
-+ Recently updated
-```
-
-</details>
-
-<details >
-<summary>
-<h3 style="display: inline;">🏅 humanly - ⭐ Standard ⭐</h3>
+<h3 style="display: inline;">🥉 humanly - ⭐ Standard ⭐</h3>
 </summary>
 
 <table>
@@ -358,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `6 days ago`
+- 🕐 Last Update: `7 days ago`
 - 📊 Status: `🔥`
 
 </td>
@@ -370,6 +309,67 @@ Description: No description provided
 + Good project with growth potential
 + Excellent code health and maintenance
 + Actively maintained
+```
+
+</details>
+
+<details >
+<summary>
+<h3 style="display: inline;">🏅 bmsbot - ⭐ Standard ⭐</h3>
+</summary>
+
+<table>
+<tr>
+<td width="60%">
+
+#### 📋 Project Overview
+```yaml
+Name:        bmsbot
+Category:    💫 Recent
+Language:    Python
+Description: No description provided
+```
+
+#### 🔗 Quick Links
+ 
+📂 **[Source Code](https://github.com/jaseemuddinn/bmsbot)**
+
+
+</td>
+<td width="40%">
+
+#### 📊 Performance Metrics
+
+**Portfolio Score**
+```
+███████░░░░░░░░░░░░░ 35.1%
+```
+
+**Detailed Breakdown:**
+- 🎯 Score: `79/225`
+- 🏥 Health: `90/100`
+- 🔧 Maintainability: `70/100`
+- 🧩 Complexity: `50/100`
+
+**Engagement:**
+- ⭐ Stars: `0`
+- 🔱 Forks: `0`
+- 👁️ Watchers: `0`
+- 🐛 Issues: `0`
+
+**Activity:**
+- 🕐 Last Update: `32 days ago`
+- 📊 Status: `💫`
+
+</td>
+</tr>
+</table>
+
+**Rating Analysis:**
+```diff
++ Good project with growth potential
++ Excellent code health and maintenance
++ Recently updated
 ```
 
 </details>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `871 days ago`
+- 🕐 Last Update: `872 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `342 days ago`
+- 🕐 Last Update: `343 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -796,7 +796,7 @@ Updated 1d ago • 🥉 Bronze
 
 **⚡ [womenite](https://github.com/jaseemuddinn/womenite)**
 ```
-TypeScript • ⭐ 0 • Score: 97
+TypeScript • ⭐ 0 • Score: 96
 Updated 8d ago • 🥉 Bronze
 ```
 
@@ -809,7 +809,7 @@ Updated 8d ago • 🥉 Bronze
 **🔥 [humanly](https://github.com/jaseemuddinn/humanly)**
 ```
 JavaScript • ⭐ 0 • Score: 80
-Updated 6d ago • ⭐ Standard
+Updated 7d ago • ⭐ Standard
 ```
 
 </td>
@@ -1089,7 +1089,7 @@ Updated 6d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Thu, 07 May 2026 03:48:00 GMT
+Report Generated:    Fri, 08 May 2026 03:39:12 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         64 repositories analyzed  
@@ -1200,4 +1200,4 @@ $$
 
 ---
 
-**Generated:** Thu, 07 May 2026 03:48:00 GMT | **Algorithm:** v4.0.0
+**Generated:** Fri, 08 May 2026 03:39:12 GMT | **Algorithm:** v4.0.0
