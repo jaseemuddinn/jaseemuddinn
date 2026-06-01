@@ -79,7 +79,7 @@
 **📦 Repository Metrics**
 ```yaml
 Total:       43
-Active:      4
+Active:      3
 Production:  19
 Elite:       14
 ```
@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-███████░░░░░░░░░░░░░ 36.9%
+███████░░░░░░░░░░░░░ 36.4%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `83/225`
+- 🎯 Score: `82/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `52/100`
@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `32 days ago`
+- 🕐 Last Update: `33 days ago`
 - 📊 Status: `💫`
 
 </td>
@@ -281,11 +281,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-██████░░░░░░░░░░░░░░ 32.4%
+██████░░░░░░░░░░░░░░ 32.0%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `73/225`
+- 🎯 Score: `72/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `60/100`
 - 🧩 Complexity: `5/100`
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `17 days ago`
+- 🕐 Last Update: `18 days ago`
 - 📊 Status: `⚡`
 
 </td>
@@ -342,11 +342,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-██████░░░░░░░░░░░░░░ 32.4%
+██████░░░░░░░░░░░░░░ 32.0%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `73/225`
+- 🎯 Score: `72/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `17 days ago`
+- 🕐 Last Update: `18 days ago`
 - 📊 Status: `⚡`
 
 </td>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `55 days ago`
+- 🕐 Last Update: `56 days ago`
 - 📊 Status: `💫`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `895 days ago`
+- 🕐 Last Update: `896 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -764,18 +764,18 @@ Week 4: █ 1 commits (current)
 ### 📊 Monthly Activity Trend (12 Months)
 
 ```
-Jun │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
-Jul │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
-Aug │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Sep │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
-Oct │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
-Nov │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
-Dec │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+Jul │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
+Aug │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Sep │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+Oct │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Nov │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
+Dec │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
 Jan │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Feb │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
-Mar │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Apr │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
-May │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 4 pushes
+Feb │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+Mar │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Apr │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+May │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
+Jun │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
 ```
 
 
@@ -796,8 +796,8 @@ Updated 1d ago • 🥉 Bronze
 
 **⚡ [vault-ayush](https://github.com/jaseemuddinn/vault-ayush)**
 ```
-N/A • ⭐ 0 • Score: 73
-Updated 17d ago • ⭐ Standard
+N/A • ⭐ 0 • Score: 72
+Updated 18d ago • ⭐ Standard
 ```
 
 </td>
@@ -808,22 +808,13 @@ Updated 17d ago • ⭐ Standard
 
 **⚡ [vault-mvp](https://github.com/jaseemuddinn/vault-mvp)**
 ```
-TypeScript • ⭐ 0 • Score: 73
-Updated 17d ago • ⭐ Standard
+TypeScript • ⭐ 0 • Score: 72
+Updated 18d ago • ⭐ Standard
 ```
 
 </td>
-<td width="50%">
-
-**⚡ [humanly](https://github.com/jaseemuddinn/humanly)**
-```
-JavaScript • ⭐ 0 • Score: 65
-Updated 30d ago • ⭐ Standard
-```
-
-</td>
+<td width="50%"></td>
 </tr>
-
 </table>
 
 
@@ -997,12 +988,12 @@ Updated 30d ago • ⭐ Standard
 ████████░░░░░░░░░░░░ 41.9%
 ```
 
-`🔥 Active           ` `3` 
+`💫 Recent           ` `3` 
 ```
 █░░░░░░░░░░░░░░░░░░░ 7.0%
 ```
 
-`💫 Recent           ` `2` 
+`🔥 Active           ` `2` 
 ```
 █░░░░░░░░░░░░░░░░░░░ 4.7%
 ```
@@ -1022,7 +1013,7 @@ Updated 30d ago • ⭐ Standard
 
 ### 📈 By Activity Level
 ```yaml
-🔥 Active (≤30d):    4 repos
+🔥 Active (≤30d):    3 repos
 💫 Recent (≤90d):    6 repos  
 ✨ Stable (≤180d):   7 repos
 💤 Dormant (>180d):  36 repos
@@ -1033,7 +1024,7 @@ Updated 30d ago • ⭐ Standard
 ```
 ██░░░░░░░░░░░░░░░░░░░░░░░
 ```
-`9.3%` of projects actively maintained
+`7.0%` of projects actively maintained
 
 </td>
 </tr>
@@ -1093,7 +1084,7 @@ Updated 30d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Sun, 31 May 2026 04:37:44 GMT
+Report Generated:    Mon, 01 Jun 2026 04:59:05 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         67 repositories analyzed  
@@ -1192,16 +1183,16 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     52.8 / 225          ║
+║  • Average Portfolio Score:     52.7 / 225          ║
 ║  • Average Health Score:        65 / 100                 ║
 ║  • Average Maintainability:     56 / 100                 ║
 ║  • Development Velocity:        0.47 repos/week            ║
 ║  • Community Engagement:        5 total interactions  ║
-║  • Active Project Rate:         9.3%                    ║
+║  • Active Project Rate:         7.0%                    ║
 ║  • Production Ready:            19 live systems              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-**Generated:** Sun, 31 May 2026 04:37:44 GMT | **Algorithm:** v4.0.0
+**Generated:** Mon, 01 Jun 2026 04:59:05 GMT | **Algorithm:** v4.0.0
