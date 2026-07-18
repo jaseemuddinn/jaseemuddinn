@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-██████░░░░░░░░░░░░░░ 32.4%
+██████░░░░░░░░░░░░░░ 32.0%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `73/225`
+- 🎯 Score: `72/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `17 days ago`
+- 🕐 Last Update: `18 days ago`
 - 📊 Status: `⚡`
 
 </td>
@@ -281,11 +281,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-██████░░░░░░░░░░░░░░ 29.8%
+██████░░░░░░░░░░░░░░ 29.3%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `67/225`
+- 🎯 Score: `66/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `52/100`
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `78 days ago`
+- 🕐 Last Update: `79 days ago`
 - 📊 Status: `💫`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `942 days ago`
+- 🕐 Last Update: `943 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `413 days ago`
+- 🕐 Last Update: `414 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `102 days ago`
+- 🕐 Last Update: `103 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -796,8 +796,8 @@ Updated 1d ago • 🥉 Bronze
 
 **⚡ [capten-apex-worker](https://github.com/jaseemuddinn/capten-apex-worker)**
 ```
-Python • ⭐ 0 • Score: 73
-Updated 17d ago • ⭐ Standard
+Python • ⭐ 0 • Score: 72
+Updated 18d ago • ⭐ Standard
 ```
 
 </td>
@@ -1072,7 +1072,7 @@ Updated 17d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Fri, 17 Jul 2026 03:21:25 GMT
+Report Generated:    Sat, 18 Jul 2026 03:11:06 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         68 repositories analyzed  
@@ -1171,7 +1171,7 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     51.1 / 225          ║
+║  • Average Portfolio Score:     51.0 / 225          ║
 ║  • Average Health Score:        64 / 100                 ║
 ║  • Average Maintainability:     55 / 100                 ║
 ║  • Development Velocity:        0.47 repos/week            ║
@@ -1183,4 +1183,4 @@ $$
 
 ---
 
-**Generated:** Fri, 17 Jul 2026 03:21:25 GMT | **Algorithm:** v4.0.0
+**Generated:** Sat, 18 Jul 2026 03:11:06 GMT | **Algorithm:** v4.0.0
