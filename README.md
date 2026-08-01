@@ -193,68 +193,7 @@ Description: Config files for my GitHub profile.
 
 <details >
 <summary>
-<h3 style="display: inline;">🥈 capten-apex-worker - ⭐ Standard ⭐</h3>
-</summary>
-
-<table>
-<tr>
-<td width="60%">
-
-#### 📋 Project Overview
-```yaml
-Name:        capten-apex-worker
-Category:    💫 Recent
-Language:    Python
-Description: No description provided
-```
-
-#### 🔗 Quick Links
- 
-📂 **[Source Code](https://github.com/jaseemuddinn/capten-apex-worker)**
-
-
-</td>
-<td width="40%">
-
-#### 📊 Performance Metrics
-
-**Portfolio Score**
-```
-██████░░░░░░░░░░░░░░ 28.9%
-```
-
-**Detailed Breakdown:**
-- 🎯 Score: `65/225`
-- 🏥 Health: `90/100`
-- 🔧 Maintainability: `70/100`
-- 🧩 Complexity: `5/100`
-
-**Engagement:**
-- ⭐ Stars: `0`
-- 🔱 Forks: `0`
-- 👁️ Watchers: `0`
-- 🐛 Issues: `0`
-
-**Activity:**
-- 🕐 Last Update: `31 days ago`
-- 📊 Status: `💫`
-
-</td>
-</tr>
-</table>
-
-**Rating Analysis:**
-```diff
-+ Good project with growth potential
-+ Excellent code health and maintenance
-+ Recently updated
-```
-
-</details>
-
-<details >
-<summary>
-<h3 style="display: inline;">🥉 dinnovations - ⭐ Standard ⭐</h3>
+<h3 style="display: inline;">🥈 dinnovations - ⭐ Standard ⭐</h3>
 </summary>
 
 <table>
@@ -297,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `956 days ago`
+- 🕐 Last Update: `957 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -315,7 +254,7 @@ Description: No description provided
 
 <details >
 <summary>
-<h3 style="display: inline;">🏅 izzhaar_loyalty_app - ⭐ Standard ⭐</h3>
+<h3 style="display: inline;">🥉 izzhaar_loyalty_app - ⭐ Standard ⭐</h3>
 </summary>
 
 <table>
@@ -358,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `427 days ago`
+- 🕐 Last Update: `428 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -370,6 +309,67 @@ Description: No description provided
 + Good project with growth potential
 - Code health needs improvement
 - Consider updating
+```
+
+</details>
+
+<details >
+<summary>
+<h3 style="display: inline;">🏅 capten-apex-worker - ⭐ Standard ⭐</h3>
+</summary>
+
+<table>
+<tr>
+<td width="60%">
+
+#### 📋 Project Overview
+```yaml
+Name:        capten-apex-worker
+Category:    💫 Recent
+Language:    Python
+Description: No description provided
+```
+
+#### 🔗 Quick Links
+ 
+📂 **[Source Code](https://github.com/jaseemuddinn/capten-apex-worker)**
+
+
+</td>
+<td width="40%">
+
+#### 📊 Performance Metrics
+
+**Portfolio Score**
+```
+██████░░░░░░░░░░░░░░ 28.4%
+```
+
+**Detailed Breakdown:**
+- 🎯 Score: `64/225`
+- 🏥 Health: `90/100`
+- 🔧 Maintainability: `70/100`
+- 🧩 Complexity: `5/100`
+
+**Engagement:**
+- ⭐ Stars: `0`
+- 🔱 Forks: `0`
+- 👁️ Watchers: `0`
+- 🐛 Issues: `0`
+
+**Activity:**
+- 🕐 Last Update: `32 days ago`
+- 📊 Status: `💫`
+
+</td>
+</tr>
+</table>
+
+**Rating Analysis:**
+```diff
++ Good project with growth potential
++ Excellent code health and maintenance
++ Recently updated
 ```
 
 </details>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `92 days ago`
+- 🕐 Last Update: `93 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `991 days ago`
+- 🕐 Last Update: `992 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -764,18 +764,18 @@ Week 4: █ 1 commits (current)
 ### 📊 Monthly Activity Trend (12 Months)
 
 ```
-Aug │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Sep │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
-Oct │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
+Sep │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+Oct │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
 Nov │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
-Dec │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+Dec │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
 Jan │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Feb │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
-Mar │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Apr │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
-May │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
-Jun │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Feb │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+Mar │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Apr │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+May │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
+Jun │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
 Jul │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Aug │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 ```
 
 
@@ -1058,7 +1058,7 @@ Updated 1d ago • 🥉 Bronze
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Fri, 31 Jul 2026 03:34:28 GMT
+Report Generated:    Sat, 01 Aug 2026 03:34:00 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         68 repositories analyzed  
@@ -1169,4 +1169,4 @@ $$
 
 ---
 
-**Generated:** Fri, 31 Jul 2026 03:34:28 GMT | **Algorithm:** v4.0.0
+**Generated:** Sat, 01 Aug 2026 03:34:00 GMT | **Algorithm:** v4.0.0
