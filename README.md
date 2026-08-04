@@ -79,7 +79,7 @@
 **📦 Repository Metrics**
 ```yaml
 Total:       44
-Active:      1
+Active:      2
 Production:  19
 Elite:       11
 ```
@@ -193,7 +193,68 @@ Description: Config files for my GitHub profile.
 
 <details >
 <summary>
-<h3 style="display: inline;">🥈 dinnovations - ⭐ Standard ⭐</h3>
+<h3 style="display: inline;">🥈 capten-apex-worker - ⭐ Standard ⭐</h3>
+</summary>
+
+<table>
+<tr>
+<td width="60%">
+
+#### 📋 Project Overview
+```yaml
+Name:        capten-apex-worker
+Category:    ⚡ Hot
+Language:    Python
+Description: No description provided
+```
+
+#### 🔗 Quick Links
+ 
+📂 **[Source Code](https://github.com/jaseemuddinn/capten-apex-worker)**
+
+
+</td>
+<td width="40%">
+
+#### 📊 Performance Metrics
+
+**Portfolio Score**
+```
+████████░░░░░░░░░░░░ 37.8%
+```
+
+**Detailed Breakdown:**
+- 🎯 Score: `85/225`
+- 🏥 Health: `90/100`
+- 🔧 Maintainability: `70/100`
+- 🧩 Complexity: `5/100`
+
+**Engagement:**
+- ⭐ Stars: `0`
+- 🔱 Forks: `0`
+- 👁️ Watchers: `0`
+- 🐛 Issues: `0`
+
+**Activity:**
+- 🕐 Last Update: `0 days ago`
+- 📊 Status: `🔥`
+
+</td>
+</tr>
+</table>
+
+**Rating Analysis:**
+```diff
++ Good project with growth potential
++ Excellent code health and maintenance
++ Actively maintained
+```
+
+</details>
+
+<details >
+<summary>
+<h3 style="display: inline;">🥉 dinnovations - ⭐ Standard ⭐</h3>
 </summary>
 
 <table>
@@ -236,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `959 days ago`
+- 🕐 Last Update: `960 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -254,7 +315,7 @@ Description: No description provided
 
 <details >
 <summary>
-<h3 style="display: inline;">🥉 izzhaar_loyalty_app - ⭐ Standard ⭐</h3>
+<h3 style="display: inline;">🏅 izzhaar_loyalty_app - ⭐ Standard ⭐</h3>
 </summary>
 
 <table>
@@ -297,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `430 days ago`
+- 🕐 Last Update: `431 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -309,67 +370,6 @@ Description: No description provided
 + Good project with growth potential
 - Code health needs improvement
 - Consider updating
-```
-
-</details>
-
-<details >
-<summary>
-<h3 style="display: inline;">🏅 capten-apex-worker - ⭐ Standard ⭐</h3>
-</summary>
-
-<table>
-<tr>
-<td width="60%">
-
-#### 📋 Project Overview
-```yaml
-Name:        capten-apex-worker
-Category:    💫 Recent
-Language:    Python
-Description: No description provided
-```
-
-#### 🔗 Quick Links
- 
-📂 **[Source Code](https://github.com/jaseemuddinn/capten-apex-worker)**
-
-
-</td>
-<td width="40%">
-
-#### 📊 Performance Metrics
-
-**Portfolio Score**
-```
-██████░░░░░░░░░░░░░░ 28.0%
-```
-
-**Detailed Breakdown:**
-- 🎯 Score: `63/225`
-- 🏥 Health: `90/100`
-- 🔧 Maintainability: `70/100`
-- 🧩 Complexity: `5/100`
-
-**Engagement:**
-- ⭐ Stars: `0`
-- 🔱 Forks: `0`
-- 👁️ Watchers: `0`
-- 🐛 Issues: `0`
-
-**Activity:**
-- 🕐 Last Update: `34 days ago`
-- 📊 Status: `💫`
-
-</td>
-</tr>
-</table>
-
-**Rating Analysis:**
-```diff
-+ Good project with growth potential
-+ Excellent code health and maintenance
-+ Recently updated
 ```
 
 </details>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `95 days ago`
+- 🕐 Last Update: `96 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `994 days ago`
+- 🕐 Last Update: `995 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -539,10 +539,10 @@ Description: No description provided
 <tr>
 <td align="center">3</td>
 <td><strong>capten-apex-worker</strong></td>
-<td align="center"><code>9</code></td>
+<td align="center"><code>10</code></td>
 <td align="center">⭐ 0</td>
 <td align="center">🔱 0</td>
-<td align="center">💫</td>
+<td align="center">🔥</td>
 <td align="center"><a href="https://github.com/jaseemuddinn/capten-apex-worker">View</a></td>
 </tr>
 
@@ -758,24 +758,24 @@ _No description_
 Week 1:  0 commits
 Week 2:  0 commits  
 Week 3:  0 commits
-Week 4: █ 1 commits (current)
+Week 4: ██ 2 commits (current)
 ```
 
 ### 📊 Monthly Activity Trend (12 Months)
 
 ```
 Sep │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Oct │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
-Nov │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
+Oct │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
+Nov │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 Dec │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
 Jan │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Feb │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Mar │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
-Apr │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-May │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 3 pushes
+Apr │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+May │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
 Jun │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
-Jul │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
-Aug │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Jul │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
+Aug │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
 ```
 
 
@@ -792,8 +792,17 @@ Updated 1d ago • 🥉 Bronze
 ```
 
 </td>
-<td width="50%"></td>
+<td width="50%">
+
+**🔥 [capten-apex-worker](https://github.com/jaseemuddinn/capten-apex-worker)**
+```
+Python • ⭐ 0 • Score: 85
+Updated 0d ago • ⭐ Standard
+```
+
+</td>
 </tr>
+
 </table>
 
 
@@ -972,12 +981,17 @@ Updated 1d ago • 🥉 Bronze
 ██░░░░░░░░░░░░░░░░░░ 9.1%
 ```
 
-`💫 Recent           ` `3` 
+`💫 Recent           ` `2` 
 ```
-█░░░░░░░░░░░░░░░░░░░ 6.8%
+█░░░░░░░░░░░░░░░░░░░ 4.5%
 ```
 
 `🚀 Live & Active    ` `1` 
+```
+░░░░░░░░░░░░░░░░░░░░ 2.3%
+```
+
+`⚡ Hot               ` `1` 
 ```
 ░░░░░░░░░░░░░░░░░░░░ 2.3%
 ```
@@ -987,7 +1001,7 @@ Updated 1d ago • 🥉 Bronze
 
 ### 📈 By Activity Level
 ```yaml
-🔥 Active (≤30d):    1 repos
+🔥 Active (≤30d):    2 repos
 💫 Recent (≤90d):    4 repos  
 ✨ Stable (≤180d):   8 repos
 💤 Dormant (>180d):  36 repos
@@ -998,7 +1012,7 @@ Updated 1d ago • 🥉 Bronze
 ```
 █░░░░░░░░░░░░░░░░░░░░░░░░
 ```
-`2.3%` of projects actively maintained
+`4.5%` of projects actively maintained
 
 </td>
 </tr>
@@ -1058,7 +1072,7 @@ Updated 1d ago • 🥉 Bronze
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Mon, 03 Aug 2026 03:35:52 GMT
+Report Generated:    Tue, 04 Aug 2026 03:19:22 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         68 repositories analyzed  
@@ -1157,16 +1171,16 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     50.4 / 225          ║
+║  • Average Portfolio Score:     50.9 / 225          ║
 ║  • Average Health Score:        64 / 100                 ║
 ║  • Average Maintainability:     55 / 100                 ║
 ║  • Development Velocity:        0.31 repos/week            ║
 ║  • Community Engagement:        5 total interactions  ║
-║  • Active Project Rate:         2.3%                    ║
+║  • Active Project Rate:         4.5%                    ║
 ║  • Production Ready:            19 live systems              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-**Generated:** Mon, 03 Aug 2026 03:35:52 GMT | **Algorithm:** v4.0.0
+**Generated:** Tue, 04 Aug 2026 03:19:22 GMT | **Algorithm:** v4.0.0
