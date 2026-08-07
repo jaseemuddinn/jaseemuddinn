@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-████████░░░░░░░░░░░░ 37.8%
+███████░░░░░░░░░░░░░ 37.3%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `85/225`
+- 🎯 Score: `84/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `962 days ago`
+- 🕐 Last Update: `963 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `433 days ago`
+- 🕐 Last Update: `434 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `98 days ago`
+- 🕐 Last Update: `99 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `997 days ago`
+- 🕐 Last Update: `998 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -796,7 +796,7 @@ Updated 1d ago • 🥉 Bronze
 
 **🔥 [capten-apex-worker](https://github.com/jaseemuddinn/capten-apex-worker)**
 ```
-Python • ⭐ 0 • Score: 85
+Python • ⭐ 0 • Score: 84
 Updated 1d ago • ⭐ Standard
 ```
 
@@ -1072,7 +1072,7 @@ Updated 1d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Thu, 06 Aug 2026 03:17:37 GMT
+Report Generated:    Fri, 07 Aug 2026 02:56:30 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         68 repositories analyzed  
@@ -1171,7 +1171,7 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     50.9 / 225          ║
+║  • Average Portfolio Score:     50.8 / 225          ║
 ║  • Average Health Score:        64 / 100                 ║
 ║  • Average Maintainability:     55 / 100                 ║
 ║  • Development Velocity:        0.31 repos/week            ║
@@ -1183,4 +1183,4 @@ $$
 
 ---
 
-**Generated:** Thu, 06 Aug 2026 03:17:37 GMT | **Algorithm:** v4.0.0
+**Generated:** Fri, 07 Aug 2026 02:56:30 GMT | **Algorithm:** v4.0.0
