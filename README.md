@@ -112,8 +112,8 @@ Velocity:    0.16/wk
 **📊 Distribution**
 ```yaml
 Recent:      2
-Stable:      8
-Dormant:     36
+Stable:      7
+Dormant:     37
 Archived:    0
 ```
 
@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-████████░░░░░░░░░░░░ 37.8%
+███████░░░░░░░░░░░░░ 37.3%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `85/225`
+- 🎯 Score: `84/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `0 days ago`
+- 🕐 Last Update: `1 days ago`
 - 📊 Status: `🔥`
 
 </td>
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `969 days ago`
+- 🕐 Last Update: `970 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `440 days ago`
+- 🕐 Last Update: `441 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -403,11 +403,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-██████░░░░░░░░░░░░░░ 27.6%
+█████░░░░░░░░░░░░░░░ 27.1%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `62/225`
+- 🎯 Score: `61/225`
 - 🏥 Health: `80/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `52/100`
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `105 days ago`
+- 🕐 Last Update: `106 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `1004 days ago`
+- 🕐 Last Update: `1005 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -549,7 +549,7 @@ Description: No description provided
 <tr>
 <td align="center">4</td>
 <td><strong>vault-ayush</strong></td>
-<td align="center"><code>8</code></td>
+<td align="center"><code>7</code></td>
 <td align="center">⭐ 0</td>
 <td align="center">🔱 0</td>
 <td align="center">✨</td>
@@ -559,7 +559,7 @@ Description: No description provided
 <tr>
 <td align="center">5</td>
 <td><strong>vault-mvp</strong></td>
-<td align="center"><code>8</code></td>
+<td align="center"><code>7</code></td>
 <td align="center">⭐ 0</td>
 <td align="center">🔱 0</td>
 <td align="center">✨</td>
@@ -769,8 +769,8 @@ Oct │▓▓░░░░░░░░░░░░░░░░░░░░░░�
 Nov │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Dec │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
 Jan │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Feb │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
-Mar │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Feb │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Mar │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Apr │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
 May │▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 4 pushes
 Jun │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
@@ -796,8 +796,8 @@ Updated 1d ago • 🥉 Bronze
 
 **🔥 [capten-apex-worker](https://github.com/jaseemuddinn/capten-apex-worker)**
 ```
-Python • ⭐ 0 • Score: 85
-Updated 0d ago • ⭐ Standard
+Python • ⭐ 0 • Score: 84
+Updated 1d ago • ⭐ Standard
 ```
 
 </td>
@@ -966,19 +966,19 @@ Updated 0d ago • ⭐ Standard
 
 ### 📊 By Category
 
+`💤 Dormant          ` `19` 
+```
+█████████░░░░░░░░░░░ 43.2%
+```
+
 `🌐 Production       ` `18` 
 ```
 ████████░░░░░░░░░░░░ 40.9%
 ```
 
-`💤 Dormant          ` `18` 
+`✨ Stable            ` `5` 
 ```
-████████░░░░░░░░░░░░ 40.9%
-```
-
-`✨ Stable            ` `6` 
-```
-███░░░░░░░░░░░░░░░░░ 13.6%
+██░░░░░░░░░░░░░░░░░░ 11.4%
 ```
 
 `🚀 Live & Active    ` `1` 
@@ -998,8 +998,8 @@ Updated 0d ago • ⭐ Standard
 ```yaml
 🔥 Active (≤30d):    2 repos
 💫 Recent (≤90d):    2 repos  
-✨ Stable (≤180d):   8 repos
-💤 Dormant (>180d):  36 repos
+✨ Stable (≤180d):   7 repos
+💤 Dormant (>180d):  37 repos
 📦 Archived:         0 repos
 ```
 
@@ -1067,7 +1067,7 @@ Updated 0d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Thu, 13 Aug 2026 02:29:08 GMT
+Report Generated:    Fri, 14 Aug 2026 02:27:19 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         68 repositories analyzed  
@@ -1166,7 +1166,7 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     50.8 / 225          ║
+║  • Average Portfolio Score:     50.7 / 225          ║
 ║  • Average Health Score:        63 / 100                 ║
 ║  • Average Maintainability:     55 / 100                 ║
 ║  • Development Velocity:        0.16 repos/week            ║
@@ -1178,4 +1178,4 @@ $$
 
 ---
 
-**Generated:** Thu, 13 Aug 2026 02:29:08 GMT | **Algorithm:** v4.0.0
+**Generated:** Fri, 14 Aug 2026 02:27:19 GMT | **Algorithm:** v4.0.0
