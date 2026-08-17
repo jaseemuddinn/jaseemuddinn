@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-███████░░░░░░░░░░░░░ 36.4%
+███████░░░░░░░░░░░░░ 36.0%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `82/225`
+- 🎯 Score: `81/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `3 days ago`
+- 🕐 Last Update: `4 days ago`
 - 📊 Status: `🔥`
 
 </td>
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `972 days ago`
+- 🕐 Last Update: `973 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `443 days ago`
+- 🕐 Last Update: `444 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `108 days ago`
+- 🕐 Last Update: `109 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `1007 days ago`
+- 🕐 Last Update: `1008 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -796,8 +796,8 @@ Updated 1d ago • 🥉 Bronze
 
 **🔥 [capten-apex-worker](https://github.com/jaseemuddinn/capten-apex-worker)**
 ```
-Python • ⭐ 0 • Score: 82
-Updated 3d ago • ⭐ Standard
+Python • ⭐ 0 • Score: 81
+Updated 4d ago • ⭐ Standard
 ```
 
 </td>
@@ -1067,7 +1067,7 @@ Updated 3d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Sun, 16 Aug 2026 01:45:16 GMT
+Report Generated:    Mon, 17 Aug 2026 01:43:00 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         68 repositories analyzed  
@@ -1166,7 +1166,7 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     50.6 / 225          ║
+║  • Average Portfolio Score:     50.5 / 225          ║
 ║  • Average Health Score:        63 / 100                 ║
 ║  • Average Maintainability:     55 / 100                 ║
 ║  • Development Velocity:        0.16 repos/week            ║
@@ -1178,4 +1178,4 @@ $$
 
 ---
 
-**Generated:** Sun, 16 Aug 2026 01:45:16 GMT | **Algorithm:** v4.0.0
+**Generated:** Mon, 17 Aug 2026 01:43:00 GMT | **Algorithm:** v4.0.0
