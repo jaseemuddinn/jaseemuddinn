@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-███████░░░░░░░░░░░░░ 33.8%
+███████░░░░░░░░░░░░░ 33.3%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `76/225`
+- 🎯 Score: `75/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `12 days ago`
+- 🕐 Last Update: `13 days ago`
 - 📊 Status: `⚡`
 
 </td>
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `981 days ago`
+- 🕐 Last Update: `982 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `452 days ago`
+- 🕐 Last Update: `453 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `117 days ago`
+- 🕐 Last Update: `118 days ago`
 - 📊 Status: `✨`
 
 </td>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `1016 days ago`
+- 🕐 Last Update: `1017 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -796,8 +796,8 @@ Updated 1d ago • 🥉 Bronze
 
 **⚡ [capten-apex-worker](https://github.com/jaseemuddinn/capten-apex-worker)**
 ```
-Python • ⭐ 0 • Score: 76
-Updated 12d ago • ⭐ Standard
+Python • ⭐ 0 • Score: 75
+Updated 13d ago • ⭐ Standard
 ```
 
 </td>
@@ -1067,7 +1067,7 @@ Updated 12d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Tue, 25 Aug 2026 01:39:10 GMT
+Report Generated:    Wed, 26 Aug 2026 01:45:02 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         68 repositories analyzed  
@@ -1178,4 +1178,4 @@ $$
 
 ---
 
-**Generated:** Tue, 25 Aug 2026 01:39:10 GMT | **Algorithm:** v4.0.0
+**Generated:** Wed, 26 Aug 2026 01:45:02 GMT | **Algorithm:** v4.0.0
