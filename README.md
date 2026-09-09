@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `8 days ago`
+- 🕐 Last Update: `9 days ago`
 - 📊 Status: `⚡`
 
 </td>
@@ -281,11 +281,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-███████░░░░░░░░░░░░░ 36.9%
+███████░░░░░░░░░░░░░ 36.4%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `83/225`
+- 🎯 Score: `82/225`
 - 🏥 Health: `90/100`
 - 🔧 Maintainability: `70/100`
 - 🧩 Complexity: `5/100`
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `3 days ago`
+- 🕐 Last Update: `4 days ago`
 - 📊 Status: `🔥`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `995 days ago`
+- 🕐 Last Update: `996 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -419,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `466 days ago`
+- 🕐 Last Update: `467 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -437,7 +437,7 @@ Description: No description provided
 
 <details >
 <summary>
-<h3 style="display: inline;">🏅 womenite - ⭐ Standard ⭐</h3>
+<h3 style="display: inline;">🏅 3dClothing - ⭐ Standard ⭐</h3>
 </summary>
 
 <table>
@@ -446,16 +446,16 @@ Description: No description provided
 
 #### 📋 Project Overview
 ```yaml
-Name:        womenite
-Category:    ✨ Stable
-Language:    TypeScript
+Name:        3dClothing
+Category:    🌐 Production
+Language:    JavaScript
 Description: No description provided
 ```
 
 #### 🔗 Quick Links
- 
-📂 **[Source Code](https://github.com/jaseemuddinn/womenite)**
-
+🌐 **[Live Demo](https://clothingcustomisation.vercel.app)** 
+📂 **[Source Code](https://github.com/jaseemuddinn/3dClothing)**
+📱 **[Visit Site](https://clothingcustomisation.vercel.app)**
 
 </td>
 <td width="40%">
@@ -464,24 +464,24 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-█████░░░░░░░░░░░░░░░ 26.2%
+█████░░░░░░░░░░░░░░░ 25.8%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `59/225`
-- 🏥 Health: `80/100`
-- 🔧 Maintainability: `70/100`
-- 🧩 Complexity: `52/100`
+- 🎯 Score: `58/225`
+- 🏥 Health: `60/100`
+- 🔧 Maintainability: `55/100`
+- 🧩 Complexity: `15/100`
 
 **Engagement:**
 - ⭐ Stars: `0`
-- 🔱 Forks: `1`
+- 🔱 Forks: `0`
 - 👁️ Watchers: `0`
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `132 days ago`
-- 📊 Status: `✨`
+- 🕐 Last Update: `1031 days ago`
+- 📊 Status: `💤`
 
 </td>
 </tr>
@@ -490,7 +490,7 @@ Description: No description provided
 **Rating Analysis:**
 ```diff
 + Good project with growth potential
-+ Good code health
+- Code health needs improvement
 - Consider updating
 ```
 
@@ -797,7 +797,7 @@ Updated 1d ago • 🥉 Bronze
 **⚡ [di](https://github.com/jaseemuddinn/di)**
 ```
 TypeScript • ⭐ 0 • Score: 105
-Updated 8d ago • 🥉 Bronze
+Updated 9d ago • 🥉 Bronze
 ```
 
 </td>
@@ -808,8 +808,8 @@ Updated 8d ago • 🥉 Bronze
 
 **🔥 [capten-apex-worker](https://github.com/jaseemuddinn/capten-apex-worker)**
 ```
-Python • ⭐ 0 • Score: 83
-Updated 3d ago • ⭐ Standard
+Python • ⭐ 0 • Score: 82
+Updated 4d ago • ⭐ Standard
 ```
 
 </td>
@@ -1079,7 +1079,7 @@ Updated 3d ago • ⭐ Standard
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Tue, 08 Sep 2026 04:08:27 GMT
+Report Generated:    Wed, 09 Sep 2026 04:15:13 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         69 repositories analyzed  
@@ -1178,7 +1178,7 @@ $$
 ╔══════════════════════════════════════════════════════════════╗
 ║                    KEY INSIGHTS                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  • Average Portfolio Score:     51.6 / 225          ║
+║  • Average Portfolio Score:     51.5 / 225          ║
 ║  • Average Health Score:        64 / 100                 ║
 ║  • Average Maintainability:     56 / 100                 ║
 ║  • Development Velocity:        0.23 repos/week            ║
@@ -1190,4 +1190,4 @@ $$
 
 ---
 
-**Generated:** Tue, 08 Sep 2026 04:08:27 GMT | **Algorithm:** v4.0.0
+**Generated:** Wed, 09 Sep 2026 04:15:13 GMT | **Algorithm:** v4.0.0
