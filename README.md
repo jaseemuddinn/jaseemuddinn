@@ -254,68 +254,7 @@ Description: Config files for my GitHub profile.
 
 <details >
 <summary>
-<h3 style="display: inline;">🥉 capten-apex-worker - ⭐ Standard ⭐</h3>
-</summary>
-
-<table>
-<tr>
-<td width="60%">
-
-#### 📋 Project Overview
-```yaml
-Name:        capten-apex-worker
-Category:    💫 Recent
-Language:    Python
-Description: No description provided
-```
-
-#### 🔗 Quick Links
- 
-📂 **[Source Code](https://github.com/jaseemuddinn/capten-apex-worker)**
-
-
-</td>
-<td width="40%">
-
-#### 📊 Performance Metrics
-
-**Portfolio Score**
-```
-██████░░░░░░░░░░░░░░ 28.9%
-```
-
-**Detailed Breakdown:**
-- 🎯 Score: `65/225`
-- 🏥 Health: `90/100`
-- 🔧 Maintainability: `70/100`
-- 🧩 Complexity: `5/100`
-
-**Engagement:**
-- ⭐ Stars: `0`
-- 🔱 Forks: `0`
-- 👁️ Watchers: `0`
-- 🐛 Issues: `0`
-
-**Activity:**
-- 🕐 Last Update: `31 days ago`
-- 📊 Status: `💫`
-
-</td>
-</tr>
-</table>
-
-**Rating Analysis:**
-```diff
-+ Good project with growth potential
-+ Excellent code health and maintenance
-+ Recently updated
-```
-
-</details>
-
-<details >
-<summary>
-<h3 style="display: inline;">🏅 dinnovations - ⭐ Standard ⭐</h3>
+<h3 style="display: inline;">🥉 dinnovations - ⭐ Standard ⭐</h3>
 </summary>
 
 <table>
@@ -358,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `1023 days ago`
+- 🕐 Last Update: `1024 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -419,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `494 days ago`
+- 🕐 Last Update: `495 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -431,6 +370,67 @@ Description: No description provided
 + Good project with growth potential
 - Code health needs improvement
 - Consider updating
+```
+
+</details>
+
+<details >
+<summary>
+<h3 style="display: inline;">🏅 capten-apex-worker - ⭐ Standard ⭐</h3>
+</summary>
+
+<table>
+<tr>
+<td width="60%">
+
+#### 📋 Project Overview
+```yaml
+Name:        capten-apex-worker
+Category:    💫 Recent
+Language:    Python
+Description: No description provided
+```
+
+#### 🔗 Quick Links
+ 
+📂 **[Source Code](https://github.com/jaseemuddinn/capten-apex-worker)**
+
+
+</td>
+<td width="40%">
+
+#### 📊 Performance Metrics
+
+**Portfolio Score**
+```
+██████░░░░░░░░░░░░░░ 28.4%
+```
+
+**Detailed Breakdown:**
+- 🎯 Score: `64/225`
+- 🏥 Health: `90/100`
+- 🔧 Maintainability: `70/100`
+- 🧩 Complexity: `5/100`
+
+**Engagement:**
+- ⭐ Stars: `0`
+- 🔱 Forks: `0`
+- 👁️ Watchers: `0`
+- 🐛 Issues: `0`
+
+**Activity:**
+- 🕐 Last Update: `32 days ago`
+- 📊 Status: `💫`
+
+</td>
+</tr>
+</table>
+
+**Rating Analysis:**
+```diff
++ Good project with growth potential
++ Excellent code health and maintenance
++ Recently updated
 ```
 
 </details>
@@ -480,7 +480,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `1058 days ago`
+- 🕐 Last Update: `1059 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -764,7 +764,7 @@ Week 4: ██ 2 commits (current)
 ### 📊 Monthly Activity Trend (12 Months)
 
 ```
-Nov │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 1 pushes
+Nov │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Dec │▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 2 pushes
 Jan │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
 Feb │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0 pushes
@@ -1067,7 +1067,7 @@ Updated 1d ago • 🥉 Bronze
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Tue, 06 Oct 2026 05:55:55 GMT
+Report Generated:    Wed, 07 Oct 2026 05:29:34 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         69 repositories analyzed  
@@ -1178,4 +1178,4 @@ $$
 
 ---
 
-**Generated:** Tue, 06 Oct 2026 05:55:55 GMT | **Algorithm:** v4.0.0
+**Generated:** Wed, 07 Oct 2026 05:29:34 GMT | **Algorithm:** v4.0.0
