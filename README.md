@@ -102,7 +102,7 @@ Avg Stars:   0.0
 ```yaml
 Health:      62%
 Maintain:    54%
-Complexity:  15%
+Complexity:  16%
 Velocity:    0.23/wk
 ```
 
@@ -159,14 +159,14 @@ Description: Config files for my GitHub profile.
 
 **Portfolio Score**
 ```
-██████████░░░░░░░░░░ 47.6%
+██████████░░░░░░░░░░ 49.3%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `107/225`
+- 🎯 Score: `111/225`
 - 🏥 Health: `100/100`
 - 🔧 Maintainability: `95/100`
-- 🧩 Complexity: `5/100`
+- 🧩 Complexity: `15/100`
 
 **Engagement:**
 - ⭐ Stars: `0`
@@ -220,11 +220,11 @@ Description: No description provided
 
 **Portfolio Score**
 ```
-█████████░░░░░░░░░░░ 44.0%
+█████████░░░░░░░░░░░ 43.6%
 ```
 
 **Detailed Breakdown:**
-- 🎯 Score: `99/225`
+- 🎯 Score: `98/225`
 - 🏥 Health: `100/100`
 - 🔧 Maintainability: `80/100`
 - 🧩 Complexity: `25/100`
@@ -236,7 +236,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `18 days ago`
+- 🕐 Last Update: `19 days ago`
 - 📊 Status: `⚡`
 
 </td>
@@ -297,7 +297,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `1037 days ago`
+- 🕐 Last Update: `1038 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -358,7 +358,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `508 days ago`
+- 🕐 Last Update: `509 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -370,67 +370,6 @@ Description: No description provided
 + Good project with growth potential
 - Code health needs improvement
 - Consider updating
-```
-
-</details>
-
-<details >
-<summary>
-<h3 style="display: inline;">🏅 capten-apex-worker - ⭐ Standard ⭐</h3>
-</summary>
-
-<table>
-<tr>
-<td width="60%">
-
-#### 📋 Project Overview
-```yaml
-Name:        capten-apex-worker
-Category:    💫 Recent
-Language:    Python
-Description: No description provided
-```
-
-#### 🔗 Quick Links
- 
-📂 **[Source Code](https://github.com/jaseemuddinn/capten-apex-worker)**
-
-
-</td>
-<td width="40%">
-
-#### 📊 Performance Metrics
-
-**Portfolio Score**
-```
-█████░░░░░░░░░░░░░░░ 26.2%
-```
-
-**Detailed Breakdown:**
-- 🎯 Score: `59/225`
-- 🏥 Health: `90/100`
-- 🔧 Maintainability: `70/100`
-- 🧩 Complexity: `5/100`
-
-**Engagement:**
-- ⭐ Stars: `0`
-- 🔱 Forks: `0`
-- 👁️ Watchers: `0`
-- 🐛 Issues: `0`
-
-**Activity:**
-- 🕐 Last Update: `45 days ago`
-- 📊 Status: `💫`
-
-</td>
-</tr>
-</table>
-
-**Rating Analysis:**
-```diff
-+ Good project with growth potential
-+ Excellent code health and maintenance
-+ Recently updated
 ```
 
 </details>
@@ -480,7 +419,7 @@ Description: No description provided
 - 🐛 Issues: `0`
 
 **Activity:**
-- 🕐 Last Update: `1072 days ago`
+- 🕐 Last Update: `1073 days ago`
 - 📊 Status: `💤`
 
 </td>
@@ -492,6 +431,67 @@ Description: No description provided
 + Good project with growth potential
 - Code health needs improvement
 - Consider updating
+```
+
+</details>
+
+<details >
+<summary>
+<h3 style="display: inline;">🏅 capten-apex-worker - ⭐ Standard ⭐</h3>
+</summary>
+
+<table>
+<tr>
+<td width="60%">
+
+#### 📋 Project Overview
+```yaml
+Name:        capten-apex-worker
+Category:    💫 Recent
+Language:    Python
+Description: No description provided
+```
+
+#### 🔗 Quick Links
+ 
+📂 **[Source Code](https://github.com/jaseemuddinn/capten-apex-worker)**
+
+
+</td>
+<td width="40%">
+
+#### 📊 Performance Metrics
+
+**Portfolio Score**
+```
+█████░░░░░░░░░░░░░░░ 25.8%
+```
+
+**Detailed Breakdown:**
+- 🎯 Score: `58/225`
+- 🏥 Health: `90/100`
+- 🔧 Maintainability: `70/100`
+- 🧩 Complexity: `5/100`
+
+**Engagement:**
+- ⭐ Stars: `0`
+- 🔱 Forks: `0`
+- 👁️ Watchers: `0`
+- 🐛 Issues: `0`
+
+**Activity:**
+- 🕐 Last Update: `46 days ago`
+- 📊 Status: `💫`
+
+</td>
+</tr>
+</table>
+
+**Rating Analysis:**
+```diff
++ Good project with growth potential
++ Excellent code health and maintenance
++ Recently updated
 ```
 
 </details>
@@ -585,7 +585,7 @@ Description: No description provided
 
 Config files for my GitHub profile.
 
-**Stack:** `JavaScript` | **Health:** `100%` | **Score:** `107`
+**Stack:** `JavaScript` | **Health:** `100%` | **Score:** `111`
 
 </td>
 <td width="30%" align="center">
@@ -613,7 +613,7 @@ Config files for my GitHub profile.
 
 _No description_
 
-**Stack:** `TypeScript` | **Health:** `100%` | **Score:** `99`
+**Stack:** `TypeScript` | **Health:** `100%` | **Score:** `98`
 
 </td>
 <td width="30%" align="center">
@@ -787,7 +787,7 @@ Oct │▓░░░░░░░░░░░░░░░░░░░░░░░�
 
 **🔥 [jaseemuddinn](https://github.com/jaseemuddinn/jaseemuddinn)**
 ```
-JavaScript • ⭐ 0 • Score: 107
+JavaScript • ⭐ 0 • Score: 111
 Updated 1d ago • 🥉 Bronze
 ```
 
@@ -796,8 +796,8 @@ Updated 1d ago • 🥉 Bronze
 
 **⚡ [di](https://github.com/jaseemuddinn/di)**
 ```
-TypeScript • ⭐ 0 • Score: 99
-Updated 18d ago • 🥉 Bronze
+TypeScript • ⭐ 0 • Score: 98
+Updated 19d ago • 🥉 Bronze
 ```
 
 </td>
@@ -1067,7 +1067,7 @@ Updated 18d ago • 🥉 Bronze
               AUTOMATED PORTFOLIO INTELLIGENCE SYSTEM
 ═══════════════════════════════════════════════════════════════════
 
-Report Generated:    Tue, 20 Oct 2026 04:26:00 GMT
+Report Generated:    Wed, 21 Oct 2026 04:16:41 GMT
 Algorithm Version:   v4.0.0-advanced
 Analysis Engine:     Multi-Factor Weighted Scoring
 Data Points:         69 repositories analyzed  
@@ -1178,4 +1178,4 @@ $$
 
 ---
 
-**Generated:** Tue, 20 Oct 2026 04:26:00 GMT | **Algorithm:** v4.0.0
+**Generated:** Wed, 21 Oct 2026 04:16:41 GMT | **Algorithm:** v4.0.0
